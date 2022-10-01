@@ -1,0 +1,15 @@
+body {
+    background-color: #FEEAFA;
+}
+
+
+h1 {
+    color: #FFB5A7;
+    font-family: 'Monserrat:wght@500', sans-serif;
+}
+
+img, video{
+    width: 300px;
+}
+
+/*media queries*/
